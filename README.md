@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**kai552/kai552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Peter! (Kai), 10 years old, and i'm good at both
+* C++
+* C#
+* Python
 
-Here are some ideas to get you started:
+------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Amethyst!
+- 🌱 I’m currently learning Rust!
+- 👯 I’m looking to collaborate on Amethyst!
+- 🤔 I’m looking for help with my Rust because i'm horrible at it lol
+- 💬 Ask me about GD modding!
+- 📫 How to reach me: email! (renne0203@icloud.com) [my spy account enail lol]
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've once eaten 6 pounds of ramen in japan before LOL
+
+# Thanks for reading
+- 💛 you for reading!
