@@ -17,4 +17,4 @@ I'm Peter! (Kai), 10 years old, and i'm good at both
 - ⚡ Fun fact: I've once eaten 6 pounds of ramen in japan before LOL
 
 # Thanks for reading
-- 💛 you for reading!
+**- 💛 you for reading!**
